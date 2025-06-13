@@ -1,0 +1,14 @@
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\bin\Debug\net8.0\40. hipotenusa.exe
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\bin\Debug\net8.0\40. hipotenusa.deps.json
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\bin\Debug\net8.0\40. hipotenusa.runtimeconfig.json
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\bin\Debug\net8.0\40. hipotenusa.dll
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\bin\Debug\net8.0\40. hipotenusa.pdb
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.dll
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\refint\40. hipotenusa.dll
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.pdb
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\40. hipotenusa.genruntimeconfig.cache
+C:\Users\Samsung\source\repos\trabalho\40. hipotenusa\obj\Debug\net8.0\ref\40. hipotenusa.dll
