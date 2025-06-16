@@ -1,8 +1,8 @@
 ﻿
-        Console.Write("Informe o mês (1–12): ");
+        Console.Write("Informe o mês: ");
         int mes = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Informe o dia (1–30): ");
+        Console.Write("Informe o dia: ");
         int dia = Convert.ToInt32(Console.ReadLine());
 
     
