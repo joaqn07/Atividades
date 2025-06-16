@@ -1,4 +1,4 @@
-Console.Write("Digite a quantidade de cavalos comprados: ");
+Console.WriteLine("Digite a quantidade de cavalos comprados: ");
 int quantidadeCavalos = Convert.ToInt32(Console.ReadLine());
 
 int ferradurasNecessarias = quantidadeCavalos * 4;
