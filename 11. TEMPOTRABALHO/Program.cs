@@ -11,4 +11,4 @@ meses = totalDias / 30;
 dias = totalDias % 30;
 
 Console.WriteLine("Tempo sem acidentes:");
-Console.WriteLine( anos + *ano(s)," + meses + " mês(es)," + dias + "dia(s).");
+Console.WriteLine( anos + "ano(s)," + meses + " mês(es)," + dias + "dia(s).");
