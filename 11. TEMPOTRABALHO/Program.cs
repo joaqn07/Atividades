@@ -1,13 +1,14 @@
-﻿int dias, mês, ano, restodepoisano;
+﻿int totalDias;
+int anos, meses, dias;
 
-Console.WriteLine(" digite quantos dias esta sem acidentes: ");
-dias = Convert.ToInt32(Console.ReadLine());
+Console.Write("Digite a quantidade de dias sem acidentes: ");
+totalDias = Convert.ToInt32(Console.ReadLine());
 
-restodepoisano = dias / 360;
-ano = restodepoisano % 360;
+anos = totalDias / 360;
+totalDias = totalDias % 360;
 
-mês = restodepoisano / 30;
-dias = restodepoisano % 30;
+meses = totalDias / 30;
+dias = totalDias % 30;
 
-
-Console.WriteLine(" o tempo sem acidentes foi " + ano + " anos, " + mês + " meses e " + dias + " dias ");
+Console.WriteLine("Tempo sem acidentes:");
+Console.WriteLine( anos + *ano(s)," + meses + " mês(es)," + dias + "dia(s).");
