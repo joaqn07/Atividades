@@ -12,6 +12,6 @@ decimal presuntoKG = presuntog / 1000.0m;
 decimal carneKG = carneg / 1000.0m;
 
 Console.WriteLine(" igredientes necessarios: ");
-Console.WriteLine(queijoKG + " de queijo. ");
-Console.WriteLine(presuntoKG + " de presunto. ");
-Console.WriteLine(" e " + carneKG + " de carne. ");
+Console.WriteLine(queijoKG + "Kg de queijo. ");
+Console.WriteLine(presuntoKG + "Kg de presunto. ");
+Console.WriteLine(" e " + carneKG + "Kg de carne. ");
