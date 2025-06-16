@@ -29,7 +29,6 @@ decimal totalGrande = qtdGrande * precoGrande;
         Console.WriteLine("Resumo da venda:");
         Console.WriteLine(" Pequenas: " + qtdPequena + " x R$" + precoPequena + " = R$ " + totalPequena);
         Console.WriteLine(" Médias: " + + qtdMedia+  " x R$ " + precoMedia + " = R$ " +totalMedia);
-        Console.WriteLine(" Grandes: " + qtdGrande + " x R$ " + precoGrande + " = R$ " + totalGrande);
-        Console.WriteLine("-------------------------------");
+        Console.WriteLine(" Grandes: " + qtdGrande + " x R$ " + precoGrande + " = R$ " + totalGrande);        
         Console.WriteLine(" Valor total arrecadado: R$" + valorTotal);
    
